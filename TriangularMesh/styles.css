@@ -1,0 +1,26 @@
+html {
+    display: relative;
+    vertical-align: middle;
+}
+
+div {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    height: 780px;
+    width: 780px;
+    border: 30px solid black;
+    box-shadow: -25px 25px 10px -10px #999;
+}
+
+canvas {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    height: 640px;
+    width: 640px;
+    border: 1px solid #999;
+    box-shadow: 0 0 10px #999;
+}
