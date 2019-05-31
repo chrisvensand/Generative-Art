@@ -3,7 +3,4 @@ This repository holds a collection of [generative art](https://en.wikipedia.org/
 
 
 # Unknown Pleasures ([code](https://github.com/chrisvensand/Generative-Art/tree/master/UnknownPleasures))
-
-# Cubic Disarray ([code](https://github.com/chrisvensand/Generative-Art/tree/master/CubicDisarray))
-
-# Tiled Lines ([code](https://github.com/chrisvensand/Generative-Art/tree/master/UnknownPleasures))
+![Unknown Pleasures image](https://github.com/chrisvensand/Generative-Art/blob/master/Images/UnknownPleasures.png "Unknown Pleasures image")
