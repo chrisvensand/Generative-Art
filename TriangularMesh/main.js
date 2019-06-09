@@ -5,6 +5,8 @@ var size = window.innerWidth;
 var dpr = window.devicePixelRatio;
 canvas.width = size * dpr;
 canvas.height = size * dpr;
+context.fillStyle = "black";
+context.fillRect(0, 0, canvas.width, canvas.height);
 context.scale(dpr, dpr);
 context.lineJoin = 'bevel';
 
